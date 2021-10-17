@@ -17,7 +17,7 @@ The following parameters will let you create a telescope based on the lenses tha
 | Objective lens thickness       | 2.5	| The outer thickness of the objective lens        |
 | Objective focal length         | 300  | The focal length of the objective lens           |
 | Eyepiece / Ocular lens radios  | 15.1 | The radius of the eyepiece / ocular lens         |
-| Eyepiece / Ocular focal length | 25   | The focal length of the eyepiece / ocular lens   |
+| Eyepiece / Ocular focal length | 50   | The focal length of the eyepiece / ocular lens   |
 
 
 The two convex lenses of a Keplerian telescope must have different focal lengths. The light enters the telescope through the objective lens and exits the telescope through the eyepiece lens.
@@ -47,8 +47,8 @@ The assembly should mostly be self explanatory. Some pushing force is needed whe
 
 | Objective (f,r) | Eyepiece (f, r) | Craters are visible on the moon | Comments |
 |-----------------|-----------------|---------------------------------|----------|
-| 150, 25         | 25, 15,1        | No                              | Gives a good field of view which make this suitable for children |
-| 300, 25         | 25, 15,1        | No                              | Significant effect of chromatic aberration. Slightly more magnification is needed to clearly spot the largest crater on the moon |
+| 150, 25         | 50, 15,1        | No                              | Gives a good field of view which make this suitable for children |
+| 300, 25         | 50, 15,1        | No                              | Significant effect of chromatic aberration. Slightly more magnification is needed to clearly spot the largest crater on the moon |
 
 # Disclaimer
 THIS CAD DRAWING COMES WITH NO WARRANTIES, USE AT YOUR OWN RISK. NEVER POINT A TELESCOPE BUILT FROM THIS DRAWING AT THE SUN.
