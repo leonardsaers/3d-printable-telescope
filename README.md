@@ -1,6 +1,8 @@
-# The poor man's telescope
+# The poor man's telescope 🔭
 
 This is a crude and simple telescope that doesn't assume any major knowledge about astronomy in order to get a glance of our neighborhood in the universe. It’s actually a Keplerian style telescope which is an improved version of the Galilean telescope.
+
+[<img alt="The poor man's telescope print" src="images/poor-mans-telescope-print.png" />](images/poor-mans-telescope-print.png)
 
 A Keplerian style telescope consists of two convex lenses which allow for a wider field of view compared with the Galilean telescope. Apart from the two lenses, the only additional parts needed is this “print in place” telescope tube which also includes the lens holder for the objective and eyepiece / ocular.
 
@@ -9,10 +11,44 @@ Luckily there is no need to provide a stl file for each combination of lenses. U
 
 The following parameters will let you create a telescope based on the lenses that you have. 
 
-| LENS SETTINGS                  |      |                                                |
-|--------------------------------|------|------------------------------------------------|
-| Objective lens radius	         | 25	  |The diameter of the objective lens              |
-| Objective lens thickness       | 2.5	| The outer thickness of the objective lens      |
-| Objective focal length         | 300  |	The focal length of the objective lens         |
-| Eyepiece / Ocular lens radios  | 15.1 | The radios of the eyepiece / ocular lens       |
-| Eyepiece / Ocular focal length | 25   |	The focal length of the eyepiece / ocular lens |
+| LENS SETTINGS                  | (mm) |                                                  |
+|--------------------------------|------|--------------------------------------------------|
+| Objective lens radius	         | 25	| The diameter of the objective lens               |
+| Objective lens thickness       | 2.5	| The outer thickness of the objective lens        |
+| Objective focal length         | 300  | The focal length of the objective lens           |
+| Eyepiece / Ocular lens radios  | 15.1 | The radius of the eyepiece / ocular lens         |
+| Eyepiece / Ocular focal length | 25   | The focal length of the eyepiece / ocular lens   |
+
+
+The two convex lenses of a Keplerian telescope must have different focal lengths. The light enters the telescope through the objective lens and exits the telescope through the eyepiece lens.
+
+[<img alt="A Keplerian telescope" src="images/keplerian-telescope.png" />](images/keplerian-telescope.png)
+
+The light from far away objects enters the telescope in parallel. The parallel light will forms an inverted images at the focal point of the objective lens. That inverted image will the be converted back to parallel light by the eyepiece as long as the lens has it's focal point on the virtual image.
+
+To calculate the magnification of a telescope, simply calculate:
+
+magnification = focal length of the objective / focal length of the eyepiece
+
+## How to print the telescope
+
+A recommended setup for printing is to print with PLA using raft and 15% infill.
+
+[<img alt="The poor man's telescope print" src="images/print-in-place-telescope.png" />](images/print-in-place-telescope.png)
+
+## Telescope assembly 
+
+The assembly should mostly be self explanatory. Some pushing force is needed when attaching the objective on to the telescope tube.
+
+
+## Result from different prints 
+
+(f = focal length in mm, r = radius in mm):
+
+| Objective (f,r) | Eyepiece (f, r) | Craters are visible on the moon | Comments |
+|-----------------|-----------------|---------------------------------|----------|
+| 150, 25         | 25, 15,1        | No                              | Gives a good field of view which make this suitable for children |
+| 300, 25         | 25, 15,1        | No                              | Significant effect of chromatic aberration. Slightly more magnification is needed to clearly spot the largest crater on the moon |
+
+# Disclaimer
+THIS CAD DRAWING COMES WITH NO WARRANTIES, USE AT YOUR OWN RISK. NEVER POINT A TELESCOPE BUILT FROM THIS DRAWING AT THE SUN.
