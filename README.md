@@ -38,7 +38,15 @@ A recommended setup for printing is to print with PLA using raft and 0% infill.
 
 [<img alt="The poor man's telescope print" src="images/print-in-place-telescope.png" />](images/print-in-place-telescope.png)
 
-[<img alt="The poor man's telescope print" src="images/poor-mans-telescope-print.png" />](images/poor-mans-telescope-print.png)
+The simplest version of the telescope after being printed.
+
+[<img alt="The poor man's telescope assembled as a binocular" src="images/poor-mans-telescope-print.png" />](images/poor-mans-telescope-print.png)
+
+The result will be a binocular when assembled with an objective lens and a eyepiece lens.
+
+[<img alt="The poor man's telescope print assembled as a telescope" src="images/poor-mans-telescope-mounted.png" />](images/poor-mans-telescope-mounted.png)
+
+A more complex version which also needs a mirror will result in a telescope, where standar eyepieces can be used.
 
 ## Telescope assembly 
 
@@ -53,7 +61,8 @@ The assembly should mostly be self explanatory.
 | 150, 25         | 50, 15          | No                              | Gives a good field of view which make this suitable for children |
 | 300, 25         | 50, 15          | No                              | Significant effect of chromatic aberration. Slightly more magnification is needed to clearly spot the largest crater on the moon |
 | 400, 40         | 20, 10          | Yes                             | |
+| 400, 40         | 10, 5           |  Yes                            | It's easy to get a sharp image using a 10mm eyepiece |
 
 
 # Disclaimer
-THIS CAD DRAWING COMES WITH NO WARRANTIES, USE AT YOUR OWN RISK. NEVER POINT A TELESCOPE BUILT FROM THIS DRAWING AT THE SUN.
+THIS CAD DRAWING COMES WITH NO WARRANTIES, USE AT YOUR OWN RISK. NEVER POINT A TELESCOPE BUILT FROM THIS DRAWING AT THE SUN OR ANY OTHER STRONGLY BRIGHT SOURCES.
