@@ -6,7 +6,7 @@ When building a poor man's telescope, it's actually more likely that a blurred i
 
 The first telescopes used by Galileo and Kepler used a single lens setup, where Galileo used a concave lens and Kepler used a convex lens. This eyepiece is also designed to be a single lens setup.
 
-[<img alt="A Keplerian telescope" src="images/eyepiece.jpg" />](A poor man's eyepiece)
+<img alt="A poor man's eyepiece (3d printed)" src="images/eyepiece.jpg" />
 
 ## The 1.25 inch standard
 
@@ -18,4 +18,4 @@ A convex lens with a maximum diameter of 28 mm can be used. Try to find a lens w
 
 ## Download stl files
 
-Use the freecad drawing to customize your eyepiece or download stl files from thingiverse: [https://www.thingiverse.com/thing:5889682](The poor mans eyepiece)
+Use the freecad drawing to customize your eyepiece or download stl files from thingiverse: [The poor mans eyepiece](https://www.thingiverse.com/thing:5889682)
