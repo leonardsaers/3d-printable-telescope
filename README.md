@@ -15,7 +15,7 @@ This project will let you explore the basics of creating your own DIY telescope.
 
 ## Introduction level - The Galilean telescope
 
-The first telescope ever created used a concave lens eyepiece. It was invented by Hans Lippershey and later used by Galileo during his early observations of space. If you want to replicate this early design, you will need a concave lens with a diameter of around 24.4 mm or smaller and a focal length of around -25mm. Use this lens to print a negative eyepiece, which you can assemble with your telescope.
+The first telescope ever created used a concave lens eyepiece. It was invented by Hans Lippershey and later used by Galileo during his early observations of space. If you want to replicate this early design, you will need a concave lens with a diameter of around 24.4 mm or smaller and a focal length of around -25mm. Use this lens to print a negative [eyepiece](the-eyepiece.md), which you can assemble with your telescope.
 
 When using a Galilean telescope, which has a concave eyepiece, you will notice a different field of view compared to Keplerian telescopes
 
