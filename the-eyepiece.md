@@ -16,6 +16,8 @@ The most popular standard size of a eyepiece is to have a diameter of 1.25 inch 
 
 A convex lens with a maximum diameter of 28 mm can be used. Try to find a lens with a focal length of about 20 mm.
 
+There is also a setup for using a concave lens.
+
 ## Download stl files
 
 Use the freecad drawing to customize your eyepiece or download stl files from thingiverse: [https://www.thingiverse.com/thing:5889682](The poor mans eyepiece)
