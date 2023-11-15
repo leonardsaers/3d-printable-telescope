@@ -2,7 +2,7 @@
 
 This project will let you explore the basics of creating your own DIY telescope. The project will unfold into a series of challenge, beginning from the simplest possible variant of a telescope and ending up with an advanced set-up that allows you to see the rings of Saturn, or the red spot on jupiter. That's the goal at least, the focus and other components must be improved before the telescope can be used for viewing planets.
 
-[<img alt="Work in progress version of the poor man's telescope" src="images/poor-mans-telescope-wip-1.png" />](A poor DIY man's telescope)
+<img alt="Work in progress version of the poor man's telescope" src="images/poor-mans-telescope-wip-1.png" />
 
 *A work in progress version of the telescope.*
 
@@ -19,7 +19,7 @@ The first telescope ever created used a concave lens eyepiece. It was invented b
 
 When using a Galilean telescope, which has a concave eyepiece, you will notice a different field of view compared to Keplerian telescopes
 
-[<img alt="A galileo style eyepiece" width="400" src="images/galileo-eyepiece.jpg" />](A galileo style eyepiece)
+<img alt="A galileo style eyepiece" width="400" src="images/galileo-eyepiece.jpg" />
 
 ## Introduction level - The Keplerian telescope
 
