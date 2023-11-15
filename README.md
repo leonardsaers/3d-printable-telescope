@@ -32,13 +32,18 @@ you'll definitely experience chromatic aberration if you go for a cheap lens, bu
 The parts for this setup is can be downloaded on [Thinigiverse - A poor man's refractor telescope](https://www.thingiverse.com/thing:5895403).
 
 [<img alt="A 3d printed keplarian telescope" src="images/keplerian-telescope-printed-1.png" />](A 3d printed Keplarian telescope)
+
 ## The happy amateur level - Aiming for the moon
 
 The moon is probably the first object in the sky that you would explore. Still, It's not that unlikely that you have never seen the amazing structure of the moon. The mountains and the craters are just out of reach for the human eye. What would it take to get a clear and sharp image of the moon where you can see that there are actually mountains an craters present on the moon?
 
 What you'll need is to spend some money on an achromatic lens.
 
+This [gearbox](https://github.com/leonardsaers/3d-printable-designs/tree/main/simple-gearbox) will let you fine adjust the focuser tube with a precition of 0.1 mm.
+
 This part of the challenge is still being worked on. The precision of the focuser needs to improve before thingiverse project can be created.
+
+A detailed description on how to build the more advanced telescope will be added.
 
 ## The expert level - Spotting the rings of Saturn
 
