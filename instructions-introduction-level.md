@@ -18,21 +18,57 @@ The interaction between the objective lens and the eyepiece creates the magnific
 Magnification = Focal length of the objective / Focal length of the eyepiece
 The formula for magnification is straightforward, and a basic optics course can provide a deeper explanation of this relationship. The next step is to find two lenses to build the telescope."
 
-#Purchasing Optics
+# Purchasing Optics
+
 Acquiring lenses for the telescope constitutes the challenging part of this project. For this project, it is recommended to procure a lens suitable for the telescope's objective and to obtain an eyepiece following the 1.25-inch standard. Attempt to find a lens with a focal length of 30, 40, or 50 cm and print out the corresponding telescope tube.
+
 If you acquire a lens with a short focal length, you can use the following project to build your own 1.25-inch eyepiece.
+
 A good lens that refracts light with minimal disturbances tends to be quite expensive. However, for this project, the challenge is to find an inexpensive lens with the goal that it's sufficiently precise to capture the larger craters on the moon. The table below presents some pre-generated measurements for various objectives (Add a comment if additional measurements are desired).
 
-| stl file                        | diameter (mm) | edge thickness (mm) |
-|---------------------------------|---------------|---------------------|
-| lens-enclosure_508_18.stl       | 50,8          | 1,8                 |
-| lens-enclosure_510_18.stl       | 51,0          | 1,8                 |
-| lens-enclosure_511_18.stl       | 51,1          | 1,8                 |
-| lens-enclosure_508_21.stl       | 50,8          | 2,1                 |
-| lens-enclosure_510_21.stl       | 51,0          | 2,1                 |
-| lens-enclosure_511_21.stl       | 51,1          | 2,1                 |
-| lens-enclosure_508_33.stl       | 50,8          | 3,3                 |
-| lens-enclosure_510_33.stl       | 51,0          | 3,3                 |
-| lens-enclosure_511_33.stl       | 51,1          | 3,3                 |
-| lens-enclosure_510_1101.st      | 51,0          | 11,01               |
-| lens-enclosure_511_1101.st      | 51,1          | 11,01               |
+| stl file                        | lens diameter (mm) | lens edge thickness (mm) |
+|---------------------------------|--------------------|--------------------------|
+| lens-enclosure_508_18.stl       | 50,8               | 1,8                      |
+| lens-enclosure_510_18.stl       | 51,0               | 1,8                      |
+| lens-enclosure_511_18.stl       | 51,1               | 1,8                      |
+| lens-enclosure_508_21.stl       | 50,8               | 2,1                      |
+| lens-enclosure_510_21.stl       | 51,0               | 2,1                      |
+| lens-enclosure_511_21.stl       | 51,1               | 2,1                      |
+| lens-enclosure_508_33.stl       | 50,8               | 3,3                      |
+| lens-enclosure_510_33.stl       | 51,0               | 3,3                      |
+| lens-enclosure_511_33.stl       | 51,1               | 3,3                      |
+| lens-enclosure_510_1101.st      | 51,0               | 11,01                    |
+| lens-enclosure_511_1101.st      | 51,1               | 11,01                    |
+
+# Building the telescope
+
+All parts can be printed using PLA, 0,3 mm is recommended for layer heigth. Print all parts with a brim.
+
+This telescope will consist of a objective that is connected to a optical tube and a focuser tube. 
+
+<img alt="All parts needed for a simpel diy telescope" src="images/all-parts-introduction-level-telescope.jpg" />
+
+Print the lens enclosuer that will fits to your lens. If the lens enclsur is sligthly to small, than you can adjust it using a hair dryer.
+
+Put the lens inside the lens enclouser.
+
+<img alt="The lens enclosure" src="images/lens-enclosure-introduction-level-telescope.jpg" />
+
+Push the lens enclosure on the objective.
+
+<img alt="The objective for the telescope" src="images/the-objective-introduction-level-telescope.jpg" />
+
+Put the focuser tube inside the optical tube.
+
+<img alt="The focuser tube before inserting it in the optical tube" src="images/the-focuser-tube-introduction-level-telescope.jpg" />
+
+Push the objective on to the focuser tube.
+
+Insert a 1.25-inch eyepiece and the telescope is ready to use.
+
+<img alt="The focuser tube before inserting it in the optical tube" src="images/the-introduction-level-telescope.jpg" />
+
+You can build your own 1.25-inch using one of the following projects.
+
+[Simple single lens 1,25" eyepiece](https://www.thingiverse.com/thing:5889682)
+[1,25" Galilean Eyepiece](https://www.thingiverse.com/thing:6019325)
