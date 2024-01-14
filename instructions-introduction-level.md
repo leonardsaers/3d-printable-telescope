@@ -48,9 +48,9 @@ This telescope will consist of a objective that is connected to a optical tube a
 
 <img alt="All parts needed for a simpel diy telescope" src="images/all-parts-introduction-level-telescope.jpg" />
 
-Print the lens enclosuer that will fits to your lens. If the lens enclsur is sligthly to small, than you can adjust it using a hair dryer.
+Print the lens enclosure that will fits to your lens. If the lens enclosure is slightly too small, than you can adjust it using a hair dryer.
 
-Put the lens inside the lens enclouser.
+Put the lens inside the lens enclosure.
 
 <img alt="The lens enclosure" src="images/lens-enclosure-introduction-level-telescope.jpg" />
 
